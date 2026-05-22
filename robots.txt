@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://pinata-casino-online.com/
+Sitemap: https://pinata-casino-online.com/sitemap.xml

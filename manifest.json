@@ -1,0 +1,19 @@
+{
+  "name": "Pinata Casino",
+  "short_name": "Pinata Casino",
+  "theme_color": "",
+  "background_color": "#1793A6",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1779454279-favicona694172c.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
